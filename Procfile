@@ -1,1 +1,1 @@
-web: python C00KI3-P0ST.py
+i_user=61563959404911; fbl_st=101223516%3BT%3A28745016; xs=12%3ArAMDpElZkE0YJQ%3A2%3A1724658063%3A-1%3A5903; fr=0ZtXyieA72eOqWHjX.AWUR7pVSnUa_cT9rqVFSkRnV4fE.Bmfdk_..AAA.0.0.BmzDGP.AWUAV4TuqCk; c_user=61560521168788; wd=393x726; x-referer=eyJyIjoiL3JlZy8%2FcmVmPWRibCZzb2Z0PWhqayIsImgiOiIvcmVnLz9yZWY9ZGJsJnNvZnQ9aGprIiwicyI6Im0ifQ%3D%3D; vpd=v1%3B726x393x2.75; locale=en_US; m_pixel_ratio=2.75; wl_cbv=v2%3Bclient_version%3A2603%3Btimestamp%3A1724700975; ps_l=1; sb=P9l9Zmt1sXhxyChLefO-vTJg; ps_n=1; datr=P9l9Zuj9e3LJkuRwj92eS5Tl;
